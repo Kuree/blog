@@ -1,7 +1,8 @@
 ---
 layout: post
-title: A IO Library for Typescript
+title: An IO Library for Typescript
 tags: web
+published: true
 ---
 
 ### TL;DR
@@ -58,3 +59,9 @@ To make handling IO easier, the IO library also has a ```BitConverter``` as in `
 
 ### How to install
 For now it's part of the [```ts-sims4```](https://github.com/Kuree/ts-sims4/blob/master/src/io.ts) library. The easiest way to use is to copy the ```io.ts``` file to your working directory and use it in your Typescript project. I will make a ```npm``` package in the future.
+
+### Demo
+Go to live demo [here](https://keyizhang.com/ts-sims4) and upload a simple Sims 4 CAS item containing meshes for a pair of shoes (download [here]({{site.baseurl}}/files/2017-09-03-test.package)). You can see the screenshot below.
+
+![shoes]({{site.baseurl}}/images/2017-09-03-1.png)
+
