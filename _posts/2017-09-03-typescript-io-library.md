@@ -1,7 +1,8 @@
 ---
-published: false
+layout: post
+title: A IO Library for Typescript
+tags: web
 ---
-## A IO Library for Typescript
 
 ### TL;DR
 This is a endianess-aware binary reader and writer for Typescript. You can use it to read arbitrary binary files in browser. You can see the live demo [here](https://keyizhang.com/ts-sims4) and a simple example [here](#usage). 
